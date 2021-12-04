@@ -95,7 +95,7 @@ a:hover,a:focus {
 }
 .nav-link:hover {
 	outline:0;
-	color:#a3201b;
+	color:#ff0800;
 	background-color:transparent;
 }
 .nav-link:focus,.nav-link:active {
