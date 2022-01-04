@@ -38,6 +38,16 @@ body {
 [tabindex="-1"]:focus {
   outline: 0 !important; }
 
+rp {
+    float: right;    
+     margin: 0 0 0 15px;
+    }
+
+lp  {
+      float: left;    
+       margin: 0 15px 0 0;
+      }
+
 hr {
   -webkit-box-sizing: content-box;
           box-sizing: content-box;
